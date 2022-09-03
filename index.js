@@ -1,2 +1,4 @@
 
-$("h1").addClass("big-title margin-50")
+$("h1").text("Hey");
+
+$("button").html("<em>Don't Click Me</em>")
